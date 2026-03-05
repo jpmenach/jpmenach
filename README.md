@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Juan Pablo 👋
 
-<!--
-**jpmenach/jpmenach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Odoo Implementer & Fullstack Developer based in Bolivia 🇧🇴  
+I build web applications and implement ERP solutions for real businesses.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **ERP:** Odoo 18 (Community, on-premise)
+- **Backend:** Python · FastAPI · Django
+- **Frontend:** React · TypeScript
+- **Infra:** Docker · PostgreSQL · Nginx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Currently
+- Odoo Implementer & IT Consultant @ SOBOCE S.A.
+- Open to remote freelance projects
+
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Pablo%20Menacho-blue)](https://www.linkedin.com/in/juan-pablo-menacho-castro-94730b263)

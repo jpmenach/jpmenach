@@ -14,4 +14,4 @@ I build web applications and implement ERP solutions for real businesses.
 - Open to remote freelance projects
 
 ## 📫 Contact
-[![LinkedIn](https://www.linkedin.com/in/jpmenach/)
+[![LinkedIn]](https://www.linkedin.com/in/jpmenach/)
